@@ -10,7 +10,7 @@ int main()
 
     printf("Value of ch : %c \n",ch);   // A
 
-    printf("Address of no is : %u\n",&no);  // 100
+    printf("Address of no is : %u\n",&no);  // 100 add
 
     printf("Address of ch is  : %u\n",&ch); // 200
 
